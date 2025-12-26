@@ -2,17 +2,18 @@
   <img src="https://github.com/user-attachments/assets/60cea62d-fc77-4722-b34a-7c1d7b08fa53" width="500">  
 
 
-  <h1 align="center">Hi, I'm Parth <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-  
+  <h1 align="center">Hi, I'm Parth <img src="https://github.com/user-attachments/assets/a65b9e25-38f3-4134-9998-1e73bf000bfa" width="80"></h1>
+ 
+
   </div>
-  <div align="center">
- 🌱 I’m currently contributing to <b>CNCF Projects.</b> 
-  </br>
-👯 I’m looking to collaborate on <b></b>Web3 projects.</b>
-    </br>
-💬 Ask me about <b> React, Flask, Node.js  applications.</b>
-</br>
-📫 reach me <b>parthdudhe06@gmail.com</b>
+<div align="center">
+
+💡 I enjoy building systems to deeply understand how things work —  
+from **Bitcoin internals** to **full-stack applications**.
+
+🌱 Currently exploring **Blockchain systems, Rust & AI/ML**  
+👯 Open to collaborating on **Web, Web3,AIML/NLP & open-source projects**  
+📫 Reach me at **parthdudhe06@gmail.com**
 
 </div>
 
@@ -55,10 +56,14 @@
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=krishi-agrawal&show_icons=true&locale=en" alt="krishi-agrawal" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishi-agrawal&show_icons=true&locale=en&layout=compact" alt="krishi-agrawal" /></p>
 </div> -->
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krishiagrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishiagrawal" height="30" width="40" /></a>
-<!-- <a href="https://www.leetcode.com/krishi26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishi26" height="30" width="40" /></a> -->
+## 🤝 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parthdude07&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
