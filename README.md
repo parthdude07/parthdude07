@@ -13,7 +13,7 @@
   <p>
     🌱 Exploring <b>Blockchain, Rust & AI/ML</b> &nbsp;|&nbsp;
     👯 Open to <b>Web, Web3, AI/ML & Open-Source</b> collaborations <br/>
-    🧠  <b>Competitive Programmer|Robotics Enthusiast</b>&nbsp;|&nbsp;
+    🧠  <b>Competitive Programmer| 🤖Robotics Enthusiast</b>&nbsp;|&nbsp;
     📫 <b>parthdudhe06@gmail.com </b>/<a href="https://linkedin.com/in/parth-dudhe">
     <img src="https://skillicons.dev/icons?i=linkedin" width="20"/>
   </a>
