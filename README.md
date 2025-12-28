@@ -3,6 +3,7 @@
 
   <h1>Hi, I'm Parth 
     <img src="https://github.com/user-attachments/assets/a65b9e25-38f3-4134-9998-1e73bf000bfa" width="55"/>
+    CSE 2<sup>nd</sup> yr @ IIIT Jabalpur
   </h1>
 
   <p>
