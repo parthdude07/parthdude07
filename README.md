@@ -20,8 +20,8 @@
   </a>
   </p>
 </div>
+Intern - Summer of bitcoin 2026 @GensisKB(Braidpool)
 
----
 
 <h3>🛠 Languages & Tools</h3>
 
