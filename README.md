@@ -20,7 +20,7 @@
   </a>
   </p>
 </div>
-Intern - Summer of bitcoin 2026 @GensisKB(Braidpool)
+<h2>Intern - Summer of bitcoin 2026 @GensisKB(Braidpool)</h2>
 
 
 <h3>🛠 Languages & Tools</h3>
